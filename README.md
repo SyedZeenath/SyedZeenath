@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SyedZeenath
-- 🌱 I’m currently learning/working Angular & NodeJs, the MEAN stack basics
+- 🌱 I’m currently learning/working Angular & NodeJs, the MEAN stack
 - 💞️ I’m looking to collaborate on Angular, nodejs and know some challenging ways to learn them
 - 📫 How to reach me: s.zeenath.ara@gmail.com
 
