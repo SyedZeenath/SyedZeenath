@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SyedZeenath
-- 🌱 I’m currently learning/working Angular & NodeJs, the MEAN stack
-- 💞️ I’m looking to collaborate on Angular, nodejs and know some challenging ways to learn them
+- 🌱 I’m working on Angular, React & NodeJS, and occasionally on GenAI.
+- 💞️ I’m looking to collaborate on Angular, React, NodeJS, and know some challenging ways to learn them
 - 📫 How to reach me: s.zeenath.ara@gmail.com
 
 <!---
